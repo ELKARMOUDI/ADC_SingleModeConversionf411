@@ -23,7 +23,7 @@ Read potentiometer values using ADC1 in single conversion mode.
 | | WIPER → PA0 | CN7 pin 10 |
 
 ## Technical Details
-### ADC Configuration (RM0383 §13)
+### ADC Configuration 
 ```c
 Clock: 21MHz (84MHz PCLK2 / 4)
 Channel: ADC1_IN0 (PA0)
